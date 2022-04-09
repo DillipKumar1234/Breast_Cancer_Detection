@@ -7,6 +7,10 @@ In this code, i use
 --keras
 --numpy
 --pandas
+About Repository
+I'll learn new things that is==>>sklearn,numpy,pandas,keras
 
+who am i?
+i am Dillip kumar Behera. i am from Angul,Odisha.i am pursuing my BTech graduate course in Mechanical_Engineering in NIT,Rourkela
 
 
