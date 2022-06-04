@@ -6,7 +6,7 @@ This repository consists of codes which helps to understand how to dectect 2 typ
 --sklearn
 --keras
 --numpy
---pandas library
+--pandas library.We create  a Deep Learning Model to detect Malignant & Benign tumor.
 # About Repository
 I'll learn new things that is==>>sklearn,numpy,pandas,keras
 
